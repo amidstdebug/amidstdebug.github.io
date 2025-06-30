@@ -36,7 +36,7 @@ profiles:
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/amidstdebug/
     label: Let's connect!
-  - icon: ai-google-scholar
+  - icon: google-scholar
     icon_pack: ai
     url: https://scholar.google.com/citations?hl=en&user=SRBrkisAAAAJ
     label: My Publications!
