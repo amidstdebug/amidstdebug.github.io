@@ -25,6 +25,13 @@ marketing:
   verification:
     google: ''
     baidu: ''
+    
+# Icon support
+icon:
+  packs:
+    - fas        # Font Awesome Solid
+    - fab        # Font Awesome Brands
+    - ai         # Academicons (required for Google Scholar)
 
 # Site header
 header:
