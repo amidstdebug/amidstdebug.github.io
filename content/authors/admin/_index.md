@@ -35,6 +35,8 @@ profiles:
     label: E-mail Me
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/amidstdebug/
+  - icon: Google_Scolar_logo.svg
+    url: https://scholar.google.com/citations?hl=en&user=SRBrkisAAAAJ
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
 #  - icon: academicons/cv
 #    url: uploads/resume.pdf
@@ -51,4 +53,4 @@ website: ""
 ---
 
 Justin Juin Hng Wong is an Air Operations & Systems Expert with the Republic of Singapore Air Force. His research 
-interests include Knowledge Representation and Reasoning, Speech Processing, and Multimodal Affective Computing
+interests include Knowledge Representation and Reasoning, Speech Processing, and Multimodal Affective Computing.
