@@ -36,8 +36,8 @@ profiles:
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/amidstdebug/
     label: Let's connect!
-  - icon: scholar
-    icon_pack: custom
+  - icon: ai-google-scholar
+    icon_pack: ai
     url: https://scholar.google.com/citations?hl=en&user=SRBrkisAAAAJ
     label: My Publications!
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
