@@ -32,11 +32,13 @@ bio: My research interests include speech classification, knowledge graphs, and 
 profiles:
   - icon: envelope
     url: 'mailto:work@jwong.dev'
-    label: E-mail Me
+    label: E-mail me!
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/amidstdebug/
-  - icon: Google_Scholar_logo.svg
+    label: Let's connect!
+  - icon: assets/media/icons/Google_Scholar_logo.svg
     url: https://scholar.google.com/citations?hl=en&user=SRBrkisAAAAJ
+    label: My Publications!
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
 #  - icon: academicons/cv
 #    url: uploads/resume.pdf
