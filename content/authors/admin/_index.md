@@ -35,7 +35,7 @@ profiles:
     label: E-mail Me
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/amidstdebug/
-  - icon: Google_Scolar_logo.svg
+  - icon: Google_Scholar_logo.svg
     url: https://scholar.google.com/citations?hl=en&user=SRBrkisAAAAJ
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
 #  - icon: academicons/cv
