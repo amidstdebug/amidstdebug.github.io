@@ -1,0 +1,13 @@
+.banner-brand__wrapper {
+          height: 300px !important;
+          margin-top: 0 !important;
+          align-items: center;
+        }
+        .banner-brand__wrapper .banner-brand__content .title {
+          padding-bottom:10px !important;
+        }
+        @media (min-width: 768px) {
+          .banner-brand__wrapper {
+            height: 400px !important;
+          }
+        }
